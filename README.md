@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Ken-Kanike aka (Junaid Shaikh)
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning many things
+- 💞️ I’m looking to collaborate on many things
+- 📫 How to reach me many ways (email:junaidshaikh7722@gmail.com || insta: __me.js__ )
+- 😄 Pronouns:He 
+- ⚡ Fun fact:Eat Sleep Code Debug Rerun Docode Delete
+
+<!---
+Ken-Kanike/Ken-Kanike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
