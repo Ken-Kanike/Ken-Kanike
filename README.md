@@ -4,7 +4,15 @@
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me many ways (email:junaidshaikh7722@gmail.com || insta: __me.js__ )
 - 😄 Pronouns:He 
-- ⚡ Fun fact:Eat Sleep Code Debug Rerun Docode Delete
+- ⚡ Fun fact:
+while( life){
+   eat();
+   code();
+   debug();
+   delete();
+   workout();
+   sleep();
+}
 
 <!---
 Ken-Kanike/Ken-Kanike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
