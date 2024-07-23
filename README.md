@@ -2,7 +2,7 @@
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on many things
-- 📫 How to reach me many ways (email:junaidshaikh7722@gmail.com || insta: "__me.js__")
+- 📫 How to reach me many ways (email:junaidshaikh7722@gmail.com  || linkdin : https://www.linkedin.com/in/junaid-shaikh)
 - 😄 Pronouns:He 
 - ⚡ Fun fact:
 while( life){
