@@ -6,12 +6,12 @@
 - 😄 Pronouns:He/His 
 - ⚡ Fun fact:
 while( life){
-   eat();
-   code();
-   debug();
-   delete();
-   workout();
-   sleep();
+eat();
+code();
+debug();
+delete();
+workout();
+sleep();
 }
 
 <!---
