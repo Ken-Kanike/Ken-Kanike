@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me many ways (email:junaidshaikh7722@gmail.com  || linkdin : https://www.linkedin.com/in/junaid-shaikh-b52918271/)
-- 😄 Pronouns:He 
+- 😄 Pronouns:He/His 
 - ⚡ Fun fact:
 while( life){
    eat();
