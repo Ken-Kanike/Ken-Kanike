@@ -1,20 +1,15 @@
 Hi there, I'm Junaid Shaikh (aka @Ken-Kanike)
-😄 Pronouns: He/Him
-👀 Interests: Exploring diverse domains in tech and beyond
-🌱 Currently Learning: Expanding my expertise across various technologies
-💼 Collaboration: Open to working on innovative and impactful projects
-🌐 Portfolio: { https://junaidshaikh-portfolio.netlify.app }
+
+😄 Pronouns: He/Him  
+👀 Interests: Exploring diverse domains in tech and beyond  
+🌱 Currently Learning: Expanding my expertise across various technologies  
+💼 Collaboration: Open to working on innovative and impactful projects  
+🌐 Portfolio: [Explore My Work] ( https://junaidshaikh-portfolio.netlify.app )
 
 🔐 Interested in accessing my private repositories and code? Feel free to reach out!
 
-⚡ Fun Fact: while( life){
-  eat();
-  code();
-  debug();
-  delete();
-  workout();
-  sleep();
-}
+⚡ Fun Fact: `while( life) { eat(); code(); debug(); delete(); workout(); sleep(); }`
+
 
 
 <!---
