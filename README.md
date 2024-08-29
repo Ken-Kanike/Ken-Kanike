@@ -1,18 +1,21 @@
-- 👋 Hi, I’m @Ken-Kanike aka (Junaid Shaikh)
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on many things
-- 📫 How to reach me many ways (email:junaidshaikh7722@gmail.com  || linkdin : https://www.linkedin.com/in/junaid-shaikh-b52918271/)
-- 😄 Pronouns:He/His 
-- ⚡ Fun fact:
-while( life){
-eat();
-code();
-debug();
-delete();
-workout();
-sleep();
+Hi there, I'm Junaid Shaikh (aka @Ken-Kanike)
+😄 Pronouns: He/Him
+👀 Interests: Exploring diverse domains in tech and beyond
+🌱 Currently Learning: Expanding my expertise across various technologies
+💼 Collaboration: Open to working on innovative and impactful projects
+🌐 Portfolio: { https://junaidshaikh-portfolio.netlify.app }
+
+🔐 Interested in accessing my private repositories and code? Feel free to reach out!
+
+⚡ Fun Fact: while( life){
+  eat();
+  code();
+  debug();
+  delete();
+  workout();
+  sleep();
 }
+
 
 <!---
 Ken-Kanike/Ken-Kanike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
