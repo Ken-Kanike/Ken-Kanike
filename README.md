@@ -14,9 +14,12 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<div align="center" style="border: 2px solid #e5e5e5; padding: 20px; border-radius: 10px; width: fit-content; background-color: #f9f9f9;">
-  <a href="https://junaidshaikh-portfolio.netlify.app/" style="font-size: 18px; text-decoration: none; color: #007BFF;">
-    🌐 Check Out My <strong>Portfolio</strong>
+<div align="center" style="border: 2px solid #007BFF; padding: 20px; border-radius: 10px; max-width: 600px; background-color: #f0f8ff; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);">
+  <p style="font-size: 18px; line-height: 1.6;">
+    I'm a passionate developer who enjoys exploring diverse domains in tech and continuously expanding my expertise. Currently, I’m working on innovative projects, from web development to AI, always striving to push my boundaries.
+  </p>
+  <a href="https://junaidshaikh-portfolio.netlify.app/" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #007BFF;">
+    🌐 Visit My Portfolio
   </a>
 </div>
 
@@ -79,8 +82,21 @@ while (life) {
 </p>
 
 <p align="center">
-  <i>Feel free to reach out if you're interested in collaborating or discussing innovative ideas!</i>
+  <i>I'm always open to new opportunities and collaborations. Let's connect and explore ways to innovate together!</i>
 </p>
+
+<p align="center">
+  <a href="mailto:junaidshaikh.coding@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email Me">
+  </a>
+  <a href="https://www.linkedin.com/in/junaid-shaikh-b52918271/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
+
 
 
 
