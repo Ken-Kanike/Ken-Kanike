@@ -1,16 +1,15 @@
-
-<h1 align="center">Hi there, I'm Junaid Shaikh <br> (aka @Ken-Kanike) 👋</h1>
+<h1 align="center">Hi there, I'm Junaid Shaikh <br> (aka @Ken-Kanike) 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/coding.gif" width="400px" height="200px" alt="Coding Animation">
+  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/developer.gif" width="350px" alt="Developer Animation">
 </p>
 
 ---
 
 <div align="center">
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=for-the-badge&logo=handshake" alt="Pronouns"> 
-  <img src="https://img.shields.io/badge/🌱%20Currently%20Learning-Cutting%20Edge%20Tech-green?style=for-the-badge&logo=learning" alt="Currently Learning"> 
-  <img src="https://img.shields.io/badge/👀%20Interests-Tech%20and%20Beyond-yellow?style=for-the-badge&logo=curiosity" alt="Interests"> 
+  <img src="https://img.shields.io/badge/🌱%20Currently%20Learning-Expanding%20Skills-green?style=for-the-badge&logo=learning" alt="Currently Learning"> 
+  <img src="https://img.shields.io/badge/👀%20Interests-Exploring%20Tech%20and%20Beyond-yellow?style=for-the-badge&logo=rocket" alt="Interests">
 </div>
 
 ---
@@ -36,19 +35,29 @@
 ---
 
 <h3 align="center">⚡ Fun Fact</h3>
+
 <p align="center">
-  <i>"I code better with a cup of coffee ☕ and my playlist on shuffle 🎵!"</i>
+  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/coding_loop.gif" width="150px" alt="Coding Loop">
+</p>
+
+<p align="center">
+  <code>while (life) { eat(); code(); debug(); workout(); sleep(); }</code>
+</p>
+
+<p align="center">
+  <i><b>Repeat until perfected. 💻☕</b></i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/waving.gif" width="60px" height="60px" alt="Waving Hand Animation">
+  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/geek_waving.gif" width="80px" alt="Waving Hand">
 </p>
 
 <p align="center">
-  <i>Let's connect and make something great together!</i>
+  <i>Let's connect and build something awesome together!</i>
 </p>
+
 
 <!--- Hi there, I'm Junaid Shaikh (aka @Ken-Kanike)
 
