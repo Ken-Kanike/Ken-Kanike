@@ -6,13 +6,11 @@
 
 ---
 
+<h3 align="center">🚀 About Me</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=for-the-badge&logo=handshake" alt="Pronouns"> 
 </div>
-
----
-
-<h3 align="center">🚀 About Me</h3>
 
 <div align="center" style="border: 2px solid #007BFF; padding: 20px; border-radius: 10px; max-width: 600px; background-color: #f0f8ff; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);">
   <p style="font-size: 18px; line-height: 1.6;">
@@ -61,12 +59,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/geek_waving.gif" style="width: 80px;" alt="Waving Hand">
-</p>
-
----
-
 <h3 align="center">⚡ Fun Fact</h3>
 
 <div style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: fit-content; margin: 0 auto;">
@@ -81,7 +73,6 @@ while (life) {
 }
 </code>
 </pre>
-  <p align="center"><i><b>Repeat until perfected. 💻☕</b></i></p>
 </div>
 
 
