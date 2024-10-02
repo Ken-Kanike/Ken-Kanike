@@ -14,9 +14,11 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<p align="center">
-  <a href="https://junaidshaikh-portfolio.netlify.app/" style="font-size: 18px; text-decoration: none; color: #007BFF;">🌐 Portfolio: Explore My Work</a>
-</p>
+<div align="center" style="border: 2px solid #e5e5e5; padding: 20px; border-radius: 10px; width: fit-content; background-color: #f9f9f9;">
+  <a href="https://junaidshaikh-portfolio.netlify.app/" style="font-size: 18px; text-decoration: none; color: #007BFF;">
+    🌐 Check Out My <strong>Portfolio</strong>
+  </a>
+</div>
 
 ---
 
@@ -46,17 +48,20 @@
 
 <h3 align="center">⚡ Fun Fact</h3>
 
-<p align="center">
-  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/coding_loop.gif" style="width: 100%; max-width: 150px;" alt="Coding Loop">
-</p>
-
-<p align="center">
-  <code style="font-size: 18px;">while (life) { eat(); code(); debug(); workout(); sleep(); }</code>
-</p>
-
-<p align="center">
-  <i><b>Repeat until perfected. 💻☕</b></i>
-</p>
+<div style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: fit-content; margin: 0 auto;">
+<pre>
+<code>
+while (life) {
+    eat();
+    code();
+    debug();
+    workout();
+    sleep();
+}
+</code>
+</pre>
+  <p align="center"><i><b>Repeat until perfected. 💻☕</b></i></p>
+</div>
 
 ---
 
@@ -74,7 +79,7 @@
 </p>
 
 <p align="center">
-  <i>Let's connect and build something awesome together!</i>
+  <i>Feel free to reach out if you're interested in collaborating or discussing innovative ideas!</i>
 </p>
 
 
