@@ -25,22 +25,6 @@
 
 ---
 
-<h3 align="center">📬 Contact Me</h3>
-
-<p align="center">
-  <a href="mailto:junaidshaikh.coding@gmail.com">
-    <img src="https://img.shields.io/badge/Email-junaidshaikh.coding%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Me">
-  </a>
-  <a href="https://www.linkedin.com/in/junaid-shaikh-b52918271/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Ken-Kanike">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
----
-
 <h3 align="center">🔐 Access to Private Repositories</h3>
 
 <p align="center">
@@ -81,19 +65,23 @@ while (life) {
   <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/geek_waving.gif" style="width: 80px;" alt="Waving Hand">
 </p>
 
+---
+
+<h3 align="center">📬 Contact Me</h3>
+
 <p align="center">
   <i>I'm always open to new opportunities and collaborations. Let's connect and explore ways to innovate together!</i>
 </p>
 
 <p align="center">
   <a href="mailto:junaidshaikh.coding@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail" alt="Email Me">
+    <img src="https://img.shields.io/badge/Email-junaidshaikh.coding%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
   <a href="https://www.linkedin.com/in/junaid-shaikh-b52918271/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ken-Kanike">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
