@@ -33,25 +33,6 @@
 
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
-
-<div style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: fit-content; margin: 0 auto;">
-<pre>
-<code>
-while (life) {
-    eat();
-    code();
-    debug();
-    workout();
-    sleep();
-}
-</code>
-</pre>
-  <p align="center"><i><b>Repeat until perfected. 💻☕</b></i></p>
-</div>
-
----
-
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
@@ -84,6 +65,25 @@ while (life) {
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
+
+---
+
+<h3 align="center">⚡ Fun Fact</h3>
+
+<div style="background-color: #1e1e1e; color: #d4d4d4; padding: 15px; border-radius: 5px; font-family: 'Courier New', Courier, monospace; width: fit-content; margin: 0 auto;">
+<pre>
+<code>
+while (life) {
+    eat();
+    code();
+    debug();
+    workout();
+    sleep();
+}
+</code>
+</pre>
+  <p align="center"><i><b>Repeat until perfected. 💻☕</b></i></p>
+</div>
 
 
 
