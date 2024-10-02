@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Junaid Shaikh <br> (aka @Ken-Kanike) 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/developer.gif" width="350px" alt="Developer Animation">
+  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="350px" alt="Developer Animation">
 </p>
 
 ---
