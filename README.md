@@ -17,11 +17,10 @@
 <h3 align="center">🚀 About Me</h3>
 
 <ul>
-  <li>😄 Pronouns: <b>He/Him</b></li>
-  <li>👀 Interests: Exploring diverse domains in tech and beyond</li>
-  <li>🌱 Currently Learning: Expanding my expertise across various technologies</li>
+  <li>👀 Exploring diverse domains in tech and beyond</li>
+  <li>🌱 Expanding my expertise across various technologies</li>
   <li>💼 Collaboration: Open to working on innovative and impactful projects</li>
-  <li>🌐 Portfolio: <a href="https://portfolio-link.com">Explore My Work</a></li>
+  <li>🌐 Portfolio: <a href="https://junaidshaikh-portfolio.netlify.app/">Explore My Work</a></li>
 </ul>
 
 ---
@@ -29,10 +28,10 @@
 <h3 align="center">📬 Contact Me</h3>
 
 <p align="center">
-  <a href="mailto:junaid.shaikh@example.com">
-    <img src="https://img.shields.io/badge/Email-junaid.shaikh%40example.com-red?style=for-the-badge&logo=gmail" alt="Email Me">
+  <a href="mailto:junaidshaikh.coding@gmail.com">
+    <img src="https://img.shields.io/badge/Email-junaidshaikh.coding%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Me">
   </a>
-  <a href="https://www.linkedin.com/in/junaidshaikh/">
+  <a href="https://www.linkedin.com/in/junaid-shaikh-b52918271/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ken-Kanike">
