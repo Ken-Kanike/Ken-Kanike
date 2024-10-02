@@ -24,30 +24,6 @@
 </div>
 
 ---
-
-<h3 align="center">🔐 Access to Private Repositories</h3>
-
-<p align="center">
-  <i>Interested in accessing my private repositories and code? Feel free to reach out via email or LinkedIn!</i>
-</p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/geek_waving.gif" style="width: 80px;" alt="Waving Hand">
-</p>
-
----
-
 <h3 align="center">📬 Contact Me</h3>
 
 <p align="center">
@@ -64,6 +40,29 @@
   <a href="https://github.com/Ken-Kanike">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
+</p>
+
+---
+
+<h3 align="center">🔐 Access to Private Repositories</h3>
+
+<p align="center">
+  <i>Interested in accessing my private repositories and code? Feel free to reach out!</i>
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Ken-Kanike/Ken-Kanike/blob/main/assets/geek_waving.gif" style="width: 80px;" alt="Waving Hand">
 </p>
 
 ---
