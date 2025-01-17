@@ -71,6 +71,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&count_private=true&theme=radical" alt="Ken-Kanike's GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical" alt="GitHub Profile Summary">
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ken-Kanike&theme=radical" alt="GitHub Activity Graph">
+</p>
 
 ---
 
