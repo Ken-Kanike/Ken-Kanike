@@ -57,6 +57,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical" alt="Ken-Kanike's GitHub Stats">
+  </a>
+  <br>
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
+  </a>
+  <br>
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Ken-Kanike&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats">
+  </a>
+</p>
+
+
 ---
 
 <h3 align="center">⚡ Fun Fact</h3>
