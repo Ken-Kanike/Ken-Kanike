@@ -59,6 +59,11 @@
   <br>
   <a href="https://github.com/Ken-Kanike">
 
+  
+  <br>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical" alt="Top Languages">
+
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
   </a>
@@ -68,24 +73,14 @@
   </a>
   
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical" alt="GitHub Profile Summary">
-  
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ken-Kanike&theme=radical" alt="GitHub Activity Graph">
-  <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical">
   
   <br>
 
   <!-- Contribution Graph -->
   <img src="https://github-contribution-stats.vercel.app/api?username=Ken-Kanike&theme=radical" alt="Contribution Graph">
   
-  <br>
 
-  <!-- Commit Graph -->
-  <img src="https://github-readme-commit-graph.herokuapp.com/?username=Ken-Kanike&theme=radical" alt="Commit Graph">
 </p>
 
 
