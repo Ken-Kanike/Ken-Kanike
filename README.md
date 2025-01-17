@@ -53,90 +53,41 @@
 <h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
   <a href="https://github.com/Ken-Kanike">
     <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical" alt="Ken-Kanike's GitHub Stats">
   </a>
   <br>
   <a href="https://github.com/Ken-Kanike">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
+
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
   </a>
   <br>
   <a href="https://github.com/Ken-Kanike">
     <img src="https://github-contributor-stats.vercel.app/api?username=Ken-Kanike&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&count_private=true&theme=radical" alt="Ken-Kanike's GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
+  
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical" alt="GitHub Profile Summary">
+  
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ken-Kanike&theme=radical" alt="GitHub Activity Graph">
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&count_private=true&theme=radical" alt="Ken-Kanike's GitHub Stats">
-  <br>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=radical" alt="GitHub Streak Stats">
-  <br>
-
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical" alt="GitHub Profile Summary">
-  <br>
-
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ken-Kanike&theme=radical" alt="GitHub Activity Graph">
   <br>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical" alt="Top Languages">
-  <br>
-
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
-  <br>
-
-  <!-- Wakatime Stats -->
-  <img src="https://wakatime.com/badge/user/abc123/green.svg" alt="Wakatime Stats">
-  <br>
-
-  <!-- Visitors Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Ken-Kanike&color=brightgreen" alt="Profile Views">
-  <br>
-
-  <!-- GitHub Stars -->
-  <img src="https://github-readme-stars.vercel.app/api?username=Ken-Kanike&theme=radical" alt="GitHub Stars">
+  
   <br>
 
   <!-- Contribution Graph -->
   <img src="https://github-contribution-stats.vercel.app/api?username=Ken-Kanike&theme=radical" alt="Contribution Graph">
-  <br>
-
-  <!-- GitHub Contributions -->
-  <img src="https://github-readme-contributions.vercel.app/api?username=Ken-Kanike&theme=radical" alt="GitHub Contributions">
-  <br>
-
-  <!-- GitHub Repository Stats -->
-  <img src="https://github-repo-stats.vercel.app/api?username=Ken-Kanike&theme=radical" alt="Repository Stats">
+  
   <br>
 
   <!-- Commit Graph -->
   <img src="https://github-readme-commit-graph.herokuapp.com/?username=Ken-Kanike&theme=radical" alt="Commit Graph">
-  <br>
-
-  <!-- GitHub Activity Contribution -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ken-Kanike&theme=react-dark&hide_title=true&hide_border=true" alt="GitHub Activity Contribution">
 </p>
+
 
 ---
 
