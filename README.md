@@ -57,34 +57,31 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical" alt="Ken-Kanike's GitHub Stats">
   </a>
   <br>
-  <a href="https://github.com/Ken-Kanike">
 
-  
-  <br>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical" alt="Top Languages">
-
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical" alt="Top Languages">
   </a>
   <br>
+
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ken-Kanike&theme=radical&row=1&column=6" alt="GitHub Trophies">
+  </a>
+  <br>
+
+  <!-- Contribution Stats -->
   <a href="https://github.com/Ken-Kanike">
     <img src="https://github-contributor-stats.vercel.app/api?username=Ken-Kanike&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats">
   </a>
-  
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical">
-  
   <br>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-contribution-stats.vercel.app/api?username=Ken-Kanike&theme=radical" alt="Contribution Graph">
-  
-
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=radical" alt="Profile Summary">
 </p>
 
-
 ---
+
 
 <h3 align="center">⚡ Fun Fact</h3>
 
