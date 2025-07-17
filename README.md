@@ -95,6 +95,18 @@ while (life) {
 </div>
 
 
+---
+
+<h1 align="center" style="font-size: 40px; color: #ff4081;">
+  🚨 I have over <strong>{{ count }}</strong> repositories!
+</h1>
+
+<p align="center" style="font-size: 18px;">
+  Most of them are <strong>private</strong> and include full-stack apps, ML/AI tools, and more.<br>
+  👉 <strong>Contact me</strong> if you want access or are curious about the code behind the scenes!
+</p>
+
+
 
 
 <!--- Hi there, I'm Junaid Shaikh (aka @Ken-Kanike)
