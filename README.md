@@ -98,7 +98,7 @@ while (life) {
 ---
 
 <h1 align="center" style="font-size: 40px; color: #ff4081;">
-  🚨 I have over <strong>60+</strong> repositories!
+  🚨 I have over <strong>75+</strong> repositories!
 </h1>
 
 <p align="center" style="font-size: 18px;">
