@@ -1,128 +1,53 @@
-<br clear="right"/>
-
----
-
-## 🏆 Achievements & Highlights
-
 <div align="center">
 
-### 🥇 Hackathon Victories
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=200&section=header&text=Junaid%20Shaikh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<table>
-<tr>
-<td width="50%">
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Junaid+Shaikh;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;6x+Hackathon+Winner+%F0%9F%8F%86;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-**🏆 VCET Hackathon 2025**  
-🥇 **1st Place**  
-**Project:** SUNO - AI Sign Language Translator  
-**Tech:** AI, DL, CNN, Next.js, FastAPI
-
-</td>
-<td width="50%">
-
-**🏆 INNOVATEX 2025 (TSEC)**  
-🥇 **1st Place**  
-**Project:** DashCart - Micro Delivery Platform  
-**Tech:** Next.js, FastAPI, Supabase, LangChain
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏆 Webathon 2.0 (M.H. Saboo Siddik)**  
-🥇 **1st Place**  
-**Project:** MYTH - Website Builder  
-**Tech:** Next.js, Automation, AI
-
-</td>
-<td width="50%">
-
-**🏆 Coherence '25 (MLSC VCET)**  
-🥇 **1st Place**  
-**Project:** ResuMetrix - AI Hiring Assistant  
-**Tech:** React, Flask, MongoDB, Gemini AI
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🏆 HackTheFlames 2025**  
-🥈 **2nd Place**  
-**Project:** MYTH 2.0 - AI Agent Builder  
-**Tech:** Agentic AI, FastAPI, Next.js, MongoDB
-
-</td>
-<td width="50%">
-
-**🏆 Need For Code 4.0 (TSEC)**  
-✨ **Special Mention**  
-**Project:** EcoMine - Mining Safety Platform  
-**Tech:** Next.js, React Native, FastAPI, ML, IoT
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://github.com/Ken-Kanike">
+    <img src="https://komarev.com/ghpvc/?username=Ken-Kanike&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Ken-Kanike?label=Followers&style=for-the-badge&color=667EEA&labelColor=1c1917" alt="Followers" />
+  <img src="https://img.shields.io/badge/Hackathons%20Won-6%20🏆-FFD700?style=for-the-badge&labelColor=1c1917" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/Projects-30+-00D9FF?style=for-the-badge&labelColor=1c1917" alt="Projects" />
+</p>
 
 </div>
 
 ---
 
-## 💼 What I Do
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```typescript
+const junaid = {
+    name: "Junaid Shaikh",
+    username: "@Ken-Kanike",
+    location: "Mumbai, India 🇮🇳",
 
-### 🤖 AI/ML Development
-- Building **Agentic AI Systems** & Multi-Agent Platforms
-- Expertise in **Computer Vision** & **NLP**
-- Integration with **Gemini API**, **LangChain**, **RAG Systems**
-- **Deep Learning** with TensorFlow & PyTorch
-- Data Analysis with Pandas, NumPy, Scikit-Learn
+    education: "Engineering Student",
+    
+    expertise: [
+        "🤖 AI/ML & Agentic Systems",
+        "💻 Full-Stack Development",
+        "📱 Mobile Apps (Android/React Native)",
+        "🎨 UI/UX Design & Animations"
+    ],
+    
+    currentFocus: "Building AI-powered applications",
+    motto: "Turning ideas into reality, one commit at a time! 🚀"
+};
+```
 
-</td>
-<td width="50%" valign="top">
-
-### 💻 Full-Stack Development
-- Modern web apps with **Next.js**, **React**, **TypeScript**
-- Creating **stunning UI/UX** with animations
-- Building **scalable backends** (Node.js, Express, FastAPI)
-- **Database design** - MongoDB, Supabase, Firebase
-- **3D Graphics** with Three.js & GSAP
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development
-- **Native Android** apps with Java & XML
-- **React Native** cross-platform apps
-- **Flutter** development
-- **Firebase** integration for real-time features
-- Maps & Location Services
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Design & Creative
-- **UI/UX Design** with Figma
-- **Animations** - Framer Motion, GSAP
-- **RESTful APIs** & WebSockets
-- **Cloud Deployment** - Vercel, Netlify
-- **Git** Version Control Expert
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
-
 <div align="center">
+
+## 🛠️ Technology Stack
 
 ### Languages
 
@@ -170,17 +95,16 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
+## 📊 GitHub Statistics
+
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Ken-Kanike&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Ken-Kanike&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
 </p>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ken-Kanike&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=667EEA&point=00D9FF&area=true&area_color=00D9FF&title_color=00D9FF&radius=8" alt="Contribution Graph" />
@@ -189,9 +113,130 @@
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+
+## 🏆 Achievements & Highlights
+
+### 🥇 Hackathon Victories
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏆 **VCET Hackathon 2025**
+**Project:** SUNO - AI Sign Language Translator  
+**Achievement:** 🥇 **1st Place**  
+**Stack:** AI, DL, CNN, Next.js, FastAPI
+
+</td>
+<td width="50%">
+
+#### 🏆 **Webathon 2.0 (M.H. Saboo Siddik)**
+**Project:** MYTH - Website Builder  
+**Achievement:** 🥇 **1st Place**  
+**Stack:** Next.js, Automation, AI
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏆 **INNOVATEX 2025 (TSEC)**
+**Project:** DashCart - Micro Delivery Platform  
+**Achievement:** 🥇 **1st Place**  
+**Stack:** Next.js, FastAPI, Supabase, LangChain
+
+</td>
+<td width="50%">
+
+#### 🏆 **Coherence '25 (MLSC VCET)**
+**Project:** ResuMetrix - AI Hiring Assistant  
+**Achievement:** 🥇 **1st Place**  
+**Stack:** React, Flask, MongoDB, Gemini AI
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏆 **HackTheFlames 2025**
+**Project:** MYTH 2.0 - AI agent builder  
+**Achievement:** 🥇 2nd Place 
+**Stack:** Agentic AI, FastAPI, Next.js, MongoDB
+
+</td>
+<td width="50%">
+
+#### 🏆 **Need For Code 4.0 (TSEC)**
+**Project:** EcoMine - Mining Safety Platform  
+**Achievement:** Special Mention  
+**Stack:** Next.js, React Native, FastAPI, ML, IoT
+
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 <div align="center">
+
+##   What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML Development
+- Building **Agentic AI Systems** & Multi-Agent Platforms
+- Expertise in **Computer Vision** & **NLP**
+- Integration with **Gemini API**, **LangChain**, **RAG Systems**
+- **Deep Learning** with TensorFlow & PyTorch
+- Data Analysis with Pandas, NumPy, Scikit-Learn
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Full-Stack Development
+- Modern web apps with **Next.js**, **React**, **TypeScript**
+- Creating **stunning UI/UX** with animations
+- Building **scalable backends** (Node.js, Express, FastAPI)
+- **Database design** - MongoDB, Supabase, Firebase
+- **3D Graphics** with Three.js & GSAP
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+- **Native Android** apps with Java & XML
+- **React Native** cross-platform apps
+- **Flutter** development
+- **Firebase** integration for real-time features
+- Maps & Location Services
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Design & Others
+- **UI/UX Design** with Figma
+- **Animations** - Framer Motion, GSAP
+- **RESTful APIs** & WebSockets
+- **Cloud Deployment** - Vercel, Netlify
+- **Git** Version Control Expert
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
 
 <p>
 <a href="https://junaidshaikh-portfolio.netlify.app/" target="_blank">
@@ -213,6 +258,12 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
+
+</div>
+
+---
+
+<div align="center">
 
 ### 📩 Interested in Collaboration?
 
