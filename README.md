@@ -21,8 +21,6 @@
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding gif" />
 
-### 🚀 About Me
-
 ```typescript
 const junaid = {
     name: "Junaid Shaikh",
@@ -167,9 +165,9 @@ const junaid = {
 <tr>
 <td width="50%">
 
-#### ⭐ **Mumbai Hacks 2025**
-**Project:** True Lense - AI Fact Checker  
-**Achievement:** Team Member  
+#### ⭐ **HackTheFlames 2025**
+**Project:** MYTH 2.0 - AI agent builder  
+**Achievement:** 🥇 2nd Place 
 **Stack:** Agentic AI, FastAPI, Next.js, MongoDB
 
 </td>
@@ -179,35 +177,6 @@ const junaid = {
 **Project:** EcoMine - Mining Safety Platform  
 **Achievement:** Special Mention  
 **Stack:** Next.js, React Native, FastAPI, ML, IoT
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 💼 Professional Experience
-
-</div>
-
-<table>
-<tr>
-<td>
-
-### 🚀 Full Stack Developer Intern
-**Shubhchintak Technology Private Ltd.** | May 2025 - July 2025
-
-**Responsibilities:**
-- 🎨 Building responsive, feature-rich web applications with **Next.js** & **TailwindCSS**
-- 🎯 Translating **Figma designs** into pixel-perfect front-end implementations
-- 🔧 Managing state using **Redux** and building backend services with **Node.js**
-- 📦 Implementing **Strapi CMS** as headless CMS for dynamic content workflows
-- ⚡ Schema design, code reviews, and performance optimization
-- 🤝 Seamless collaboration through **GitHub** and Agile methodologies
-
-**Tech Stack:** React.js, Next.js, TailwindCSS, Figma, Stripe, Node.js, Redux, CMS
 
 </td>
 </tr>
@@ -301,52 +270,6 @@ const junaid = {
 
 <div align="center">
 
-## ⚡ Fun Zone
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=while+(alive)+%7B+eat()+%2B+code()+%2B+debug()+%7D;%E2%98%95+Coffee+%E2%86%92+%F0%9F%92%BB+Code+%E2%86%92+%F0%9F%9A%80+Deploy;Building+the+future%2C+one+commit+at+a+time!" alt="Fun Code" />
-
-### 💭 Developer Wisdom
-
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
-> *"Make it work, make it right, make it fast."* – Kent Beck
-
-</div>
-
----
-
-<div align="center">
-
-## 🔒 Private Repositories
-
-### Want Access to My 75+ Repositories?
-
-**Most of my work is private and includes:**
-
-```yaml
-AI/ML Projects:
-  - Agentic Systems & Multi-Agent Platforms
-  - Computer Vision & NLP Solutions
-  - RAG-based Applications
-
-Full-Stack Applications:
-  - MERN & MEAN Stack Projects
-  - Next.js Production Apps
-  - Real-time Applications with WebSockets
-
-Mobile Applications:
-  - Native Android Apps
-  - React Native Cross-platform Apps
-  - Flutter Projects
-
-Hackathon Winners:
-  - 6 Award-Winning Projects
-  - Production-Ready Code
-  - Innovative Solutions
-```
-
 ### 📩 Interested in Collaboration?
 
 [![Email Me](https://img.shields.io/badge/📧_Let's_Talk-Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidshaikh.coding@gmail.com)
@@ -360,9 +283,6 @@ Hackathon Winners:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=120&section=footer" />
 
 <br>
-
-![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=flat-square)
-![Open to Work](https://img.shields.io/badge/Open_to-Opportunities-00D9FF?style=flat-square)
 
 **© 2025 Junaid Shaikh** | **@Ken-Kanike**
 
