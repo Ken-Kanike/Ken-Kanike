@@ -119,10 +119,6 @@ const junaid = {
 
 ## 🏆 Achievements & Highlights
 
-<img src="https://github-profile-trophy.vercel.app/api/?username=Ken-Kanike&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
-
-</div>
-
 ### 🥇 Hackathon Victories
 
 <table>
@@ -181,6 +177,7 @@ const junaid = {
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
