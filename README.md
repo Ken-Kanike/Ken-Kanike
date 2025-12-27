@@ -47,49 +47,26 @@ const junaid = {
 
 <div align="center">
 
-## 🛠️ Technology Stack
+## 🌟 [**→ VIEW MY PORTFOLIO ←**](https://junaidshaikh-portfolio.netlify.app/)
 
-### Languages
+**Explore my projects, achievements, and skills in detail!**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c&perline=6&theme=dark" alt="Languages" />
+</div>
 
-### Frontend Development
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,redux,threejs,materialui&perline=5&theme=dark" alt="Frontend" />
+## 🛠️ Tech Stack
 
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+<div align="center">
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,angular,html,css,tailwind,bootstrap,redux,nodejs,express,flask,fastapi,django,androidstudio,flutter,mongodb,mysql,firebase,supabase,prisma,git,github,vercel,netlify,vscode,postman,figma&perline=14&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django&perline=5&theme=dark" alt="Backend" />
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react&perline=3&theme=dark" alt="Mobile" />
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### AI/ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,prisma&perline=5&theme=dark" alt="Databases" />
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman,figma&perline=7&theme=dark" alt="Tools" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
