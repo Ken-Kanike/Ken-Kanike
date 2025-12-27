@@ -100,13 +100,11 @@ const junaid = {
 ## 📊 GitHub Statistics
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ken-Kanike&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Ken-Kanike&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 </p>
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ken-Kanike&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Coding%20Activity&layout=compact" alt="Coding Activity" />
 </p>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ken-Kanike&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=667EEA&point=00D9FF&area=true&area_color=00D9FF&title_color=00D9FF&radius=8" alt="Contribution Graph" />
@@ -125,7 +123,7 @@ const junaid = {
 <tr>
 <td width="50%">
 
-####   **VCET Hackathon 2025**
+#### 🏆 **VCET Hackathon 2025**
 **Project:** SUNO - AI Sign Language Translator  
 **Achievement:** 🥇 **1st Place**  
 **Stack:** AI, DL, CNN, Next.js, FastAPI
@@ -161,7 +159,7 @@ const junaid = {
 <tr>
 <td width="50%">
 
-#### ⭐ **HackTheFlames 2025**
+#### 🏆 **HackTheFlames 2025**
 **Project:** MYTH 2.0 - AI agent builder  
 **Achievement:** 🥇 2nd Place 
 **Stack:** Agentic AI, FastAPI, Next.js, MongoDB
@@ -169,7 +167,7 @@ const junaid = {
 </td>
 <td width="50%">
 
-#### ⭐ **Need For Code 4.0 (TSEC)**
+#### 🏆 **Need For Code 4.0 (TSEC)**
 **Project:** EcoMine - Mining Safety Platform  
 **Achievement:** Special Mention  
 **Stack:** Next.js, React Native, FastAPI, ML, IoT
