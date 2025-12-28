@@ -95,8 +95,8 @@ const junaid = {
   </tr>
 </table>
 
-### 🚀 **80+ Public Project Repositories**
-Building across **AI, Full-Stack, Web3, Agentic Systems, IoT & Hackathon Products**
+### 🚀 **80+ Project Repositories**
+Building across **AI, ML, DL, Full-Stack, Web3, Agentic Systems, Automations and Mobile Applications & Hackathon Products**
 
 <img
   width="98%"
