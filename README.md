@@ -49,7 +49,11 @@ const junaid = {
 
 ## 🌟 [**→ VIEW MY PORTFOLIO ←**](https://junaidshaikh-portfolio.netlify.app/)
 
-**Explore my projects, achievements, and skills in detail!**
+**Explore my projects, achievements, and skills in detail!*
+
+## 🚀 **80+ Project Repositories**
+Building across **AI, ML, DL, Full-Stack, Web3, Agentic Systems, Automations and Mobile Applications & Hackathon Products**
+
 
 </div>
 
@@ -75,28 +79,6 @@ const junaid = {
 <div align="center">
 
 ## 📊 GitHub Statistics
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=Ken-Kanike&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9"
-        height="180"
-        alt="GitHub Streak"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10"
-        height="180"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
-### 🚀 **80+ Project Repositories**
-Building across **AI, ML, DL, Full-Stack, Web3, Agentic Systems, Automations and Mobile Applications & Hackathon Products**
 
 <img
   width="98%"
