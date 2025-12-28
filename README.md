@@ -76,17 +76,36 @@ const junaid = {
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img width="48%" src="https://streak-stats.demolab.com?user=Ken-Kanike&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Ken-Kanike&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9"
+        height="180"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10"
+        height="180"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Kanike&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
-</p>
+### 🚀 **80+ Public Project Repositories**
+Building across **AI, Full-Stack, Web3, Agentic Systems, IoT & Hackathon Products**
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ken-Kanike&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=667EEA&point=00D9FF&area=true&area_color=00D9FF&title_color=00D9FF&radius=8" alt="Contribution Graph" />
+<img
+  width="98%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ken-Kanike&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=667EEA&point=00D9FF&area=true&area_color=00D9FF&title_color=00D9FF&radius=8"
+  alt="Contribution Graph"
+/>
 
 </div>
+
 
 ---
 
