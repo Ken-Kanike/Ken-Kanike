@@ -49,9 +49,9 @@ const junaid = {
 
 ## 🌟 [**→ VIEW MY PORTFOLIO ←**](https://junaidshaikh-portfolio.netlify.app/)
 
-**Explore my projects, achievements, and skills in detail!*
+**Explore my projects, achievements, and skills in detail!**
 
-## 🚀 **80+ Project Repositories**
+## 🚀 **80+ Repositories**
 Building across **AI, ML, DL, Full-Stack, Web3, Agentic Systems, Automations and Mobile Applications & Hackathon Products**
 
 
