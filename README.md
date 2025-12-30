@@ -253,12 +253,13 @@ Building across **AI, ML, DL, Full-Stack, Web3, Agentic Systems, Automations and
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=120&section=footer" />
-
 <br>
 
 **© 2025 Junaid Shaikh** | **@Ken-Kanike**
 
 ### ⭐ Star my repositories if you find them interesting!
+
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=120&section=footer" />
 
 </div>
