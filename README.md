@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=Ken-Kanike&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
   </a>
   <img src="https://img.shields.io/github/followers/Ken-Kanike?label=Followers&style=for-the-badge&color=667EEA&labelColor=1c1917" alt="Followers" />
-  <img src="https://img.shields.io/badge/Hackathons%20Won-6%20🏆-FFD700?style=for-the-badge&labelColor=1c1917" alt="Hackathons" />
+  <img src="https://img.shields.io/badge/Hackathons%20Won-7%20🏆-FFD700?style=for-the-badge&labelColor=1c1917" alt="Hackathons" />
   <img src="https://img.shields.io/badge/Projects-30+-00D9FF?style=for-the-badge&labelColor=1c1917" alt="Projects" />
 </p>
 
