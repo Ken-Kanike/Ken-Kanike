@@ -26,18 +26,13 @@ const junaid = {
     name: "Junaid Shaikh",
     username: "@Ken-Kanike",
     location: "Mumbai, India 🇮🇳",
-
     education: "Engineering Student",
-    
     expertise: [
         "🤖 AI/ML & Agentic Systems",
         "💻 Full-Stack Development",
         "📱 Mobile Apps (Android/React Native)",
         "🎨 UI/UX Design & Animations"
     ],
-    
-    currentFocus: "Building AI-powered applications",
-    motto: "Turning ideas into reality, one commit at a time! 🚀"
 };
 ```
 
