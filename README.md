@@ -27,6 +27,7 @@ const junaid = {
     username: "@Ken-Kanike",
     location: "Mumbai, India 🇮🇳",
     education: "Engineering Student",
+
     expertise: [
         "🤖 AI/ML & Agentic Systems",
         "💻 Full-Stack Development",
