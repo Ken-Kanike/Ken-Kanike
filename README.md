@@ -33,6 +33,8 @@ const junaid = {
         "📱 Mobile Apps (Android/React Native)",
         "🎨 UI/UX Design & Animations"
     ],
+    currentFocus: "Building AI-powered applications",
+    motto: "Turning ideas into reality, one commit at a time! 🚀"
 };
 ```
 
