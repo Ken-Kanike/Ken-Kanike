@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=200&section=header&text=Junaid%20Shaikh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Junaid+Shaikh;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;11x+Hackathon+Winner+%F0%9F%8F%86;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Junaid+Shaikh;11x+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p>
