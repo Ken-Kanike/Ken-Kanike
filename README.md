@@ -46,8 +46,6 @@ const junaid = {
 
 <div align="center">
 
-## 🌟 [**→ VIEW MY PORTFOLIO ←**](https://junaidshaikh-portfolio.netlify.app/)
-
 **Explore my projects, achievements, and skills in detail!**
 
 ## 🚀 **80+ Repositories**
@@ -150,9 +148,6 @@ Building across **AI, ML, DL, Full-Stack, Web3, Agentic Systems, Automations and
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://junaidshaikh-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D9FF?style=for-the-badge" alt="Portfolio" />
-</a>
 <a href="mailto:junaidshaikh.coding@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
