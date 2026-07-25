@@ -1,8 +1,3 @@
-Here is a custom, high-impact GitHub Profile README designed with a **Brutalist Sci-Fi / Terminal HUD** aesthetic. It showcases your full-stack expertise, agentic AI builds, and competitive programming profile using dynamic SVG badges and clean typography.
-
-Create a repository with your exact username (`ken-kanike/ken-kanike`) and paste this directly into your `README.md`:
-
-```markdown
 <div align="center">
 
 
@@ -11,9 +6,7 @@ Create a repository with your exact username (`ken-kanike/ken-kanike`) and paste
 ██╗  ██╗███████╗███╗   ██╗    ██╗  ██╗ █████╗ ███╗   ██╗██╗██╗██╗███╗   ██╗███████╗
 ██║ ██╔╝██╔════╝████╗  ██║    ██║ ██╔╝██╔══██╗████╗  ██║██║██║██║████╗  ██║██╔════╝
 █████═╝ █████╗  ██╔██╗ ██║    █████═╝ ███████║██╔██╗ ██║██║██║██║██╔██╗ ██║█████╗
-
 ██╔═██╗ ██╔══╝  ██║╚██╗██║    ██╔═██╗ ██╔══██║██║╚██╗██║██║██║██║██║╚██╗██║██╔══╝
-
 ██║  ██╗███████╗██║ ╚████║    ██║  ██╗██║  ██║██║ ╚████║██║██║██║██║ ╚████║███████╗
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
 
@@ -95,6 +88,5 @@ const systemSpecs = {
   "status": "Available for high-impact roles, collaborations, and contract builds."
 }
 
-```
 
 *Designed with precision • © 2026 Junaid Shaikh*
