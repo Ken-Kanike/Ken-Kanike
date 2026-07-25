@@ -3,7 +3,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00D9FF&height=250&section=header&text=JUNAID%20SHAIKH&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50" />
 
 <a href="https://github.com/Ken-Kanike">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Agentic+AI+Systems+🤖;Crafting+Immersive+Web+Experiences+🌐;13x+Hackathon+Champion+🏆;Unraveling+The+Future+Of+Technology+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Junaid+Shaikh;13x+Hackathon+Winner+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+The+Future+%F0%9F%9A%80" alt="Typing SVG" />
+
 </a>
 
 <br>
