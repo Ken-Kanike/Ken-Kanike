@@ -67,30 +67,30 @@ const junaid = {
 <br>
 
 <!-- CARD 1: 30% Company/Logo | 70% Role & Description -->
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
-<td width="30%" valign="top">
+<td width="30%" align="center" valign="middle">
 <font color="#00D9FF"><b>EXPERIENCE</b></font>
 <br><br>
 <a href="https://www.ey.com/en_in" target="_blank">
-  <img src="assets/ernst-young-ey-logo.webp" width="60" alt="EY Logo" />
+  <img src="assets/ernst-young-ey-logo.webp" width="85" alt="EY Logo" />
 </a>
-<br>
-<h3><b>EY GDS (Ernst & Young)</b></h3>
-<sub>🗓️ August 2026 – Ongoing</sub>
 <br><br>
+<h3><b>EY GDS (Ernst & Young)</b></h3>
+</td>
+
+<td width="70%" valign="top">
+<h2>AI & Automation Intern</h2>
+<p>🗓️ <b>August 2026 – Ongoing</b></p>
+<p>
+Developing enterprise AI automation solutions with <b>Azure AI</b>, <b>AWS Bedrock</b>, <b>LLMs</b>, <b>RAG</b>, and advanced prompt engineering. Architecting <b>LangGraph multi-agent systems</b> with autonomous tool orchestration, persistent memory systems, and <b>Model Context Protocol (MCP)</b> integrations for automated intelligence workflows.
+</p>
+<br>
 <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI" />
 <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock" />
 <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=00D9FF" alt="LangGraph" />
 <img src="https://img.shields.io/badge/LLMs_%26_RAG-8E75B2?style=flat-square&logoColor=white" alt="LLMs & RAG" />
 <img src="https://img.shields.io/badge/MCP-00D9FF?style=flat-square&logoColor=black" alt="MCP" />
-</td>
-
-<td width="70%" valign="top">
-<h2>AI & Automation Intern</h2>
-<p>
-Developing enterprise AI automation solutions with <b>Azure AI</b>, <b>AWS Bedrock</b>, <b>LLMs</b>, <b>RAG</b>, and advanced prompt engineering. Architecting <b>LangGraph multi-agent systems</b> with autonomous tool orchestration, persistent memory systems, and <b>Model Context Protocol (MCP)</b> integrations for automated intelligence workflows.
-</p>
 </td>
 </tr>
 </table>
@@ -98,29 +98,29 @@ Developing enterprise AI automation solutions with <b>Azure AI</b>, <b>AWS Bedro
 <br>
 
 <!-- CARD 2: 70% Role & Description | 30% Company/Logo -->
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
 <td width="70%" valign="top">
 <h2>Data Analyst Intern</h2>
+<p>🗓️ <b>June 2026 – July 2026</b></p>
 <p>
 Automating enterprise data pipelines and workflows, developing AI-driven intelligence solutions, performing deep business data analytics, and driving measurable operational efficiency gains across cross-functional enterprise teams.
 </p>
-</td>
-
-<td width="30%" valign="top">
-<font color="#00D9FF"><b>EXPERIENCE</b></font>
-<br><br>
-<a href="https://www.colgatepalmolive.com/" target="_blank">
-  <img src="assets/colgate_logo.png" width="60" alt="Colgate Logo" />
-</a>
 <br>
-<h3><b>Colgate-Palmolive</b></h3>
-<sub>🗓️ June 2026 – July 2026</sub>
-<br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/AI_Solutions-00D9FF?style=flat-square&logoColor=black" alt="AI Solutions" />
 <img src="https://img.shields.io/badge/Data_Analytics-150458?style=flat-square&logo=pandas&logoColor=white" alt="Data Analytics" />
 <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logoColor=white" alt="Automation" />
+</td>
+
+<td width="30%" align="center" valign="middle">
+<font color="#00D9FF"><b>EXPERIENCE</b></font>
+<br><br>
+<a href="https://www.colgatepalmolive.com/" target="_blank">
+  <img src="assets/colgate_logo.png" width="85" alt="Colgate Logo" />
+</a>
+<br><br>
+<h3><b>Colgate-Palmolive</b></h3>
 </td>
 </tr>
 </table>
@@ -128,30 +128,30 @@ Automating enterprise data pipelines and workflows, developing AI-driven intelli
 <br>
 
 <!-- CARD 3: 30% Company/Logo | 70% Role & Description -->
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
-<td width="30%" valign="top">
+<td width="30%" align="center" valign="middle">
 <font color="#00D9FF"><b>EXPERIENCE</b></font>
 <br><br>
 <a href="https://shubhchintak.co/" target="_blank">
-  <img src="assets/shubchintak_logo.png" width="60" alt="Shubhchintak Logo" />
+  <img src="assets/shubchintak_logo.png" width="85" alt="Shubhchintak Logo" />
 </a>
-<br>
-<h3><b>Shubhchintak Technology</b></h3>
-<sub>🗓️ May 2025 – Jul 2025</sub>
 <br><br>
+<h3><b>Shubhchintak Technology</b></h3>
+</td>
+
+<td width="70%" valign="top">
+<h2>Full Stack Developer Intern</h2>
+<p>🗓️ <b>May 2025 – Jul 2025</b></p>
+<p>
+Developed high-performance full-stack web applications with <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, <b>Prisma ORM</b>, and <b>Strapi CMS</b>. Built automated business pipelines, payment gateway integrations, and scalable business solutions.
+</p>
+<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
-</td>
-
-<td width="70%" valign="top">
-<h2>Full Stack Developer Intern</h2>
-<p>
-Developed high-performance full-stack web applications with <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, <b>Prisma ORM</b>, and <b>Strapi CMS</b>. Built automated business pipelines, payment gateway integrations, and scalable business solutions.
-</p>
 </td>
 </tr>
 </table>
@@ -159,29 +159,29 @@ Developed high-performance full-stack web applications with <b>Next.js</b>, <b>R
 <br>
 
 <!-- CARD 4: 70% Role & Description | 30% Company/Logo -->
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
 <td width="70%" valign="top">
 <h2>Web & Android Developer Intern</h2>
+<p>🗓️ <b>Jun 2024 – Jul 2024</b></p>
 <p>
 Created responsive web applications and Android mobile applications using <b>Java</b>, <b>Firebase Realtime Database</b>, <b>WordPress</b>, and modern web frameworks, delivering fast, accessible, and user-centric digital experiences.
 </p>
-</td>
-
-<td width="30%" valign="top">
-<font color="#00D9FF"><b>EXPERIENCE</b></font>
-<br><br>
-<a href="https://prayasdevelopers.com/" target="_blank">
-  <img src="assets/prayas_logo.png" width="60" alt="Prayas Logo" />
-</a>
 <br>
-<h3><b>Prayas Developers</b></h3>
-<sub>🗓️ Jun 2024 – Jul 2024</sub>
-<br><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+</td>
+
+<td width="30%" align="center" valign="middle">
+<font color="#00D9FF"><b>EXPERIENCE</b></font>
+<br><br>
+<a href="https://prayasdevelopers.com/" target="_blank">
+  <img src="assets/prayas_logo.png" width="85" alt="Prayas Logo" />
+</a>
+<br><br>
+<h3><b>Prayas Developers</b></h3>
 </td>
 </tr>
 </table>
