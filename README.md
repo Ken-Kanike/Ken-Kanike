@@ -271,7 +271,16 @@ Created responsive web applications and Android mobile applications using <b>Jav
 
   <br>
 
-  <img width="95%" src="https://ghchart.rshah.org/00D9FF/Ken-Kanike" alt="Contribution Graph" />
+  <table align="center" border="0" cellspacing="0" cellpadding="4">
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ken-Kanike&theme=tokyonight" width="380" alt="Profile Details" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ken-Kanike&theme=tokyonight&utcOffset=5.5" width="380" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
