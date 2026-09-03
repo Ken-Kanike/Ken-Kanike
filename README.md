@@ -70,10 +70,8 @@ const junaid = {
 <table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
 <td width="30%" align="center" valign="middle">
-<font color="#00D9FF"><b>EXPERIENCE</b></font>
-<br><br>
 <a href="https://www.ey.com/en_in" target="_blank">
-  <img src="assets/ernst-young-ey-logo.webp" width="85" alt="EY Logo" />
+  <img src="assets/ernst-young-ey-logo.webp" width="100" alt="EY Logo" />
 </a>
 <br><br>
 <h3><b>EY GDS (Ernst & Young)</b></h3>
@@ -114,10 +112,8 @@ Automating enterprise data pipelines and workflows, developing AI-driven intelli
 </td>
 
 <td width="30%" align="center" valign="middle">
-<font color="#00D9FF"><b>EXPERIENCE</b></font>
-<br><br>
 <a href="https://www.colgatepalmolive.com/" target="_blank">
-  <img src="assets/colgate_logo.png" width="85" alt="Colgate Logo" />
+  <img src="assets/colgate_logo.png" width="100" alt="Colgate Logo" />
 </a>
 <br><br>
 <h3><b>Colgate-Palmolive</b></h3>
@@ -131,10 +127,8 @@ Automating enterprise data pipelines and workflows, developing AI-driven intelli
 <table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
 <td width="30%" align="center" valign="middle">
-<font color="#00D9FF"><b>EXPERIENCE</b></font>
-<br><br>
 <a href="https://shubhchintak.co/" target="_blank">
-  <img src="assets/shubchintak_logo.png" width="85" alt="Shubhchintak Logo" />
+  <img src="assets/shubchintak_logo.png" width="100" alt="Shubhchintak Logo" />
 </a>
 <br><br>
 <h3><b>Shubhchintak Technology</b></h3>
@@ -175,10 +169,8 @@ Created responsive web applications and Android mobile applications using <b>Jav
 </td>
 
 <td width="30%" align="center" valign="middle">
-<font color="#00D9FF"><b>EXPERIENCE</b></font>
-<br><br>
 <a href="https://prayasdevelopers.com/" target="_blank">
-  <img src="assets/prayas_logo.png" width="85" alt="Prayas Logo" />
+  <img src="assets/prayas_logo.png" width="100" alt="Prayas Logo" />
 </a>
 <br><br>
 <h3><b>Prayas Developers</b></h3>
@@ -272,14 +264,14 @@ Created responsive web applications and Android mobile applications using <b>Jav
   <table align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken-Kanike&theme=react&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Ken-Kanike&theme=react&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ken-Kanike&custom_title=System%20Contribution%20Graph&hide_border=true&bg_color=00000000&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&title_color=00D9FF&radius=8" alt="Contribution Graph" />
+  <img width="95%" src="https://ghchart.rshah.org/00D9FF/Ken-Kanike" alt="Contribution Graph" />
 </div>
 
 <br>
