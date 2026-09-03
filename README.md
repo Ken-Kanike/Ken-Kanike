@@ -99,7 +99,7 @@ Developing enterprise AI automation solutions with <b>Azure AI</b>, <b>AWS Bedro
 <table width="100%" border="0" cellspacing="0" cellpadding="14">
 <tr>
 <td width="70%" valign="top">
-<h2>Data Analyst Intern</h2>
+<h2>AI & Data Analytics Intern</h2>
 <p>🗓️ <b>June 2026 – July 2026</b></p>
 <p>
 Automating enterprise data pipelines and workflows, developing AI-driven intelligence solutions, performing deep business data analytics, and driving measurable operational efficiency gains across cross-functional enterprise teams.
