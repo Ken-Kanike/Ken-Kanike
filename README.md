@@ -73,7 +73,7 @@ const junaid = {
 <font color="#00D9FF"><b>EXPERIENCE</b></font>
 <br><br>
 <a href="https://www.ey.com/en_in" target="_blank">
-  <img src="public/ernst-young-ey-logo.webp" width="60" alt="EY Logo" />
+  <img src="assets/ernst-young-ey-logo.webp" width="60" alt="EY Logo" />
 </a>
 <br>
 <h3><b>EY GDS (Ernst & Young)</b></h3>
@@ -111,7 +111,7 @@ Automating enterprise data pipelines and workflows, developing AI-driven intelli
 <font color="#00D9FF"><b>EXPERIENCE</b></font>
 <br><br>
 <a href="https://www.colgatepalmolive.com/" target="_blank">
-  <img src="public/colgate_logo.png" width="60" alt="Colgate Logo" />
+  <img src="assets/colgate_logo.png" width="60" alt="Colgate Logo" />
 </a>
 <br>
 <h3><b>Colgate-Palmolive</b></h3>
@@ -134,7 +134,7 @@ Automating enterprise data pipelines and workflows, developing AI-driven intelli
 <font color="#00D9FF"><b>EXPERIENCE</b></font>
 <br><br>
 <a href="https://shubhchintak.co/" target="_blank">
-  <img src="public/shubchintak_logo.png" width="60" alt="Shubhchintak Logo" />
+  <img src="assets/shubchintak_logo.png" width="60" alt="Shubhchintak Logo" />
 </a>
 <br>
 <h3><b>Shubhchintak Technology</b></h3>
@@ -172,7 +172,7 @@ Created responsive web applications and Android mobile applications using <b>Jav
 <font color="#00D9FF"><b>EXPERIENCE</b></font>
 <br><br>
 <a href="https://prayasdevelopers.com/" target="_blank">
-  <img src="public/prayas_logo.png" width="60" alt="Prayas Logo" />
+  <img src="assets/prayas_logo.png" width="60" alt="Prayas Logo" />
 </a>
 <br>
 <h3><b>Prayas Developers</b></h3>
