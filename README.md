@@ -60,10 +60,6 @@ const junaid = {
 
 <h2 align="center">💼 Professional Experience</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌟_INCOMING_FULL--TIME-Colgate_Global_Business_Services_%7C_AI_%26_Data_Analytics_Engineer_(2027)-00D9FF?style=for-the-badge&labelColor=000000" alt="Incoming Full-Time" />
-</p>
-
 <br>
 
 <!-- CARD 1: 30% Company/Logo | 70% Role & Description -->
